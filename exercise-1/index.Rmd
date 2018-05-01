@@ -1,0 +1,17 @@
+---
+title: "Pariticpation 6"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+
+```
+
+![](Rplot1.png)
+![](Rplot2.png)
+
+![](Rplot3.png)
+
+![](Rplot4.png)
+![](Rplot5.png)
